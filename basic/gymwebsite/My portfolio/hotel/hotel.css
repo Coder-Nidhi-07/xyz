@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxy4LWw8AxyP_X0Ji3vzhtr5k_BGwHq35wA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    width: 300px;
+    height:300px;
+    font-weight: 300px;
+    font-style:oblique;
+    font-family: cursive;
+    color: bisque;
+    text-shadow: 30px;
+}
+.navbar{
+    display:flex;
+}
+
+nav ul li{
+    list-style: none;
+float:left;
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+    padding: 30px 30px;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    color: azure;
+}
+span{
+    margin:auto;
+    width:15%;
+    display: block;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    color: azure;
+
+}

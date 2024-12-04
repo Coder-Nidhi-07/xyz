@@ -1,0 +1,26 @@
+.container{
+    border: 2px solid black;
+    margin: 25px;
+    padding: 30px;
+}
+.item{
+    border: 2px solid purple;
+    margin:auto;
+    padding: 20px;
+
+}
+#fruit{
+    float:left;
+    width:40% ;
+}
+#computer{
+    float:right;
+    width:45% ;
+}
+#stationary{
+    width: 90%;
+    clear: both;
+}
+
+
+

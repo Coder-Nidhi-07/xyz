@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:cursive;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#header{
+    width:100%;
+    height:100vh;
+    background-image: url(https://media.istockphoto.com/id/928227026/photo/beautiful-asian-woman-against-black-background.webp?b=1&s=170667a&w=0&k=20&c=EdEil4trU1SA7bOmqGPSkrvG2xi_xh2__P5w9W4GDoY=);
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat; 
+
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logo{
+    width:140px;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin:10px 20 px;
+}

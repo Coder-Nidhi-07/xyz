@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url(https://static.vecteezy.com/system/resources/thumbnails/022/653/711/small_2x/treadmill-in-modern-gym-toned-image-3d-rendering-generative-ai-free-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.header{
+    display:flex;
+}
+.left{
+color:white;
+}
+.mid{
+    color: white;
+}
+.navbar{
+    display: inline;
+    margin:12px;
+    padding: 6px;
+    
+}
